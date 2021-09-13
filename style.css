@@ -1,0 +1,24 @@
+body{
+  text-align:center;
+  margin:0;
+  margin-bottom:18px;
+  background-color:seashell;
+}
+h1{
+  font-size:38px;
+  border-bottom:black solid 3px;
+  padding-bottom:35px;
+  margin-bottom:0;
+  color:dodgerblue;
+}
+h2{
+  font-size:28px;
+  margin-top:35px;
+  color:orange;
+  }
+a,p{
+  font-size:20px;
+}
+#notetopp{
+  margin-bottom:30px;
+}
